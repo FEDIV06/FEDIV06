@@ -2,7 +2,7 @@
 - 👀 I’m interested in lots of different things. Just ask.
 - 🌱 I’m currently learning coding. My current end goal is C# and .NET.
 - 💞️ I’m looking to collaborate on ... just about anything.
-- 📫 How to reach me ... not sure yet.
+- 📫 How to reach me ... Check links.
 - 😄 Pronouns: I'm an old school kinda guy.
 - ⚡ Fun fact: ... American medicine is NOT a science. ALL medical doctors in the USA have ART degrees. Don't believe me... GOOD. Go ask your own doctor. Sorry... That may not be a Fun fact. Just think you have a right to know.
 
