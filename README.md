@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... just about anything.
 - 📫 How to reach me ... Check links.
 - 😄 Pronouns: I'm an old school kinda guy.
-- ⚡ Fun fact: ... American medicine is NOT a science. ALL medical doctors in the USA have ART degrees. Don't believe me... GOOD. Go ask your own doctor. Sorry... That may not be a Fun fact. Just think you have a right to know.
+- ⚡ Fun fact: ... American medicine is NOT a science. ALL medical doctors in the USA have ART degrees. Don't believe me... GOOD. Go ask your own doctor. Sorry... That may not be a 'Fun' fact. Just think you have a right to know.
 
 <!---
 FEDIV06/FEDIV06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
